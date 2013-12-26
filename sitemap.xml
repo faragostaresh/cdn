@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://cdn.faragostaresh.com/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://cdn.faragostaresh.com/bootstrap.html</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://cdn.faragostaresh.com/css.html</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://cdn.faragostaresh.com/font.html</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://cdn.faragostaresh.com/js.html</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://cdn.faragostaresh.com/contact.html</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://cdn.faragostaresh.com/about.html</loc>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>
