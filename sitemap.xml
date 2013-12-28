@@ -5,31 +5,31 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>http://cdn.faragostaresh.net/</loc>
+  <loc>http://cdn.faragostaresh.com/</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://cdn.faragostaresh.net/bootstrap.html</loc>
+  <loc>http://cdn.faragostaresh.com/bootstrap.html</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://cdn.faragostaresh.net/css.html</loc>
+  <loc>http://cdn.faragostaresh.com/css.html</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://cdn.faragostaresh.net/font.html</loc>
+  <loc>http://cdn.faragostaresh.com/font.html</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://cdn.faragostaresh.net/js.html</loc>
+  <loc>http://cdn.faragostaresh.com/js.html</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://cdn.faragostaresh.net/contact.html</loc>
+  <loc>http://cdn.faragostaresh.com/contact.html</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://cdn.faragostaresh.net/about.html</loc>
+  <loc>http://cdn.faragostaresh.com/about.html</loc>
   <changefreq>daily</changefreq>
 </url>
 </urlset>
